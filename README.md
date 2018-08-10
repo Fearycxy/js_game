@@ -1,2 +1,2 @@
 # js_game
-just for leaning js and write for fan
+just for learning js and write for fan
